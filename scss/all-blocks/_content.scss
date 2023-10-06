@@ -1,0 +1,47 @@
+
+.content {
+    padding-top: 148px;
+}
+
+.content__heading {
+    width: 255px;
+    color: #83888F;
+    font-family: "Fraunces";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 32px; 
+    padding-bottom: 72px;
+}
+
+.content__h4 {
+    width: 272px;
+    color: #333D4B;
+    font-family: "Fraunces";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 36px; 
+}
+
+.content__list {
+    display: flex;
+}
+
+.content__item+ .content__item {
+    margin-left: 107px;
+}
+
+.ddd {
+    width: 107px;
+    color: #333D4B;
+    font-family: "Barlow";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px; 
+}
+
+.content__strongg {
+    width: 200px;
+}

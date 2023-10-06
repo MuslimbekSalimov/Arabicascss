@@ -1,0 +1,62 @@
+
+.foot {
+    width: 1280px;
+    height: 120px;
+    flex-shrink: 0;
+    background: #2C343E;
+    border-radius: 4px;
+    width: auto;
+    width: auto;
+  }
+  
+  .foot__info {
+    display: flex;
+    width: auto;
+  }
+  
+  .foot__img {
+    margin: 45px 47px;
+    padding-bottom: 47px;
+  }
+  
+  .foot__list {
+    display: flex;
+    margin-top: 10px;
+  }
+  
+  .foot__item {
+    padding-top: 15px;
+  }
+  
+  .foot__item+ .foot__item {
+    margin-left: 33px;
+    /* padding-top: 53px; */
+    
+  }
+  
+  .foot__heading {
+    color: #83888F;
+    font-family: "Barlow";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 15px; 
+    letter-spacing: 0.923px;
+    text-transform: uppercase;
+  }
+  
+  .foot__headingg {
+    color: #FEFCF7;
+    font-family: "Barlow";
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 15px; 
+    letter-spacing: 0.923px;
+    text-transform: uppercase;
+  }
+  
+  .foot__image {
+    padding-top: 27px;
+    margin-left: 369px;
+  }
